@@ -1,0 +1,14 @@
+layout_spectrum: 0.491391635267064
+typography_spectrum: 0.6767865037545562
+color:
+  brandStrength: 0.35366298886947334
+  lightness: 0.5489614277612418
+  saturation: 0.6693168960046023
+  rhythmicContrast: 0.8377849257085472
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: experiment
